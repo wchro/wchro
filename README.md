@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wchro
+- 👀 I’m interested in JavaScript, Python, Kotlin & Java
+- 🌱 I’m currently learning Python :)
